@@ -1,0 +1,19 @@
+{
+    "name": "@perry-rylance/watchful-autoload-generator",
+    "version": "0.0.1",
+    "description": "This is a PHP autoloader generator designed to work with files local to your project. Available as a node plugin, this tool is designed to be installed via NPM and then utilised in your gulpfile.",
+    "main": "WatchfulAutoloadGenerator.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PerryRylance/WatchfulAutoloadGenerator.git"
+    },
+    "author": "Perry Rylance <contact@perryrylance.com> (https://perryrylance.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/PerryRylance/WatchfulAutoloadGenerator/issues"
+    },
+    "homepage": "https://github.com/PerryRylance/WatchfulAutoloadGenerator#readme"
+}
