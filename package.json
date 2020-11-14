@@ -1,6 +1,6 @@
 {
     "name": "@perry-rylance/watchful-autoload-generator",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "description": "This is a PHP autoloader generator designed to work with files local to your project. Available as a node plugin, this tool is designed to be installed via NPM and then utilised in your gulpfile.",
     "main": "WatchfulAutoloadGenerator.js",
     "scripts": {

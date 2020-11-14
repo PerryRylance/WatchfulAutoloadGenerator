@@ -3,6 +3,13 @@ This is a PHP autoloader generator designed to work with files local to your pro
 
 This tool uses a precompiled version of [Autoload](https://github.com/theseer/Autoload), with thanks to [theseer](https://github.com/theseer).
 
+## Requirements
+
+- Node.js
+- PHP
+
+Both of which must be available on the command line.
+
 ## Installation
 
 I recommend installing this tool via NPM:
