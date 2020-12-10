@@ -22,12 +22,11 @@ This tool exports a single function which will recursively watch PHP files in th
 
 The generated class autoloader file will be outputted to autoload.php in your project root.
 
-`
-generator = require("@perry-rylance/watchful-autoload-generator").default;
+```generator = require("@perry-rylance/watchful-autoload-generator").default;
 
 exports.default = function() {
 	generator("/includes");
 }
-`
+```
 
 Where `includes` is the folder containing your PHP classes. Please note, I recommend putting your projects PHP classes in a subfolder of the project root, in order to avoid this tool scanning the vendor directory where present.
